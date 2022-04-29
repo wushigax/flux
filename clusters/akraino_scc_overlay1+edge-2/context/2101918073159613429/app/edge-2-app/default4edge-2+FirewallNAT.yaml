@@ -1,0 +1,1 @@
+{"apiVersion":"batch.sdewan.akraino.org/v1alpha1","kind":"CNFNAT","metadata":{"labels":{"emco/deployment-id":"2101918073159613429-edge-2-app","sdewanPurpose":"base","targetCluster":"Device.edge-2"},"name":"default4edge-2","namespace":"default"},"spec":{"dest":"#source","index":"0","src_dip":"192.169.0.2","target":"SNAT"}}
