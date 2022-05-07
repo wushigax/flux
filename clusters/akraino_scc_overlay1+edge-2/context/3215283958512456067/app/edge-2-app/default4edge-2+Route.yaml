@@ -1,1 +1,0 @@
-{"apiVersion":"batch.sdewan.akraino.org/v1alpha1","kind":"CNFRoute","metadata":{"labels":{"emco/deployment-id":"3215283958512456067-edge-2-app","sdewanPurpose":"base","targetCluster":"Device.edge-2"},"name":"default4edge-2","namespace":"default"},"spec":{"dev":"#192.169.0.2","dst":"default","gw":"10.10.70.39","table":"cnf"}}
