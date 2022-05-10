@@ -1,0 +1,1 @@
+{"apiVersion":"batch.sdewan.akraino.org/v1alpha1","kind":"IpsecProposal","metadata":{"labels":{"emco/deployment-id":"3126023787079909658-edge-2-app","sdewanPurpose":"base","targetCluster":"Device.edge-2"},"name":"proposal1","namespace":"default"},"spec":{"dh_group":"modp4096","encryption_algorithm":"aes256","hash_algorithm":"sha256"}}
