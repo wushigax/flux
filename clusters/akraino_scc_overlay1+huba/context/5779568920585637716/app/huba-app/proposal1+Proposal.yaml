@@ -1,1 +1,0 @@
-{"apiVersion":"batch.sdewan.akraino.org/v1alpha1","kind":"IpsecProposal","metadata":{"labels":{"emco/deployment-id":"5779568920585637716-huba-app","sdewanPurpose":"base","targetCluster":"Hub.huba"},"name":"proposal1","namespace":"default"},"spec":{"dh_group":"modp4096","encryption_algorithm":"aes256","hash_algorithm":"sha256"}}
